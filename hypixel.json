@@ -1,0 +1,409 @@
+{
+  "NoFall": {
+    "State": false,
+    "Settings": {
+      "NofallMode": "Vulcan",
+      "fallDistance": 4.0,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "Blink": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "NoBob": {
+    "State": true,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "FastLadder": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "AutoArmor": {
+    "State": true,
+    "Settings": {
+      "onlyWhileNotMoving": true,
+      "onlyInv": true,
+      "Delay": 20.0,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "ChestStealer": {
+    "State": true,
+    "Settings": {
+      "Delay": 141.0,
+      "Close": true,
+      "freeLook": false,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "NoRotate": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "SlowerHIT": {
+    "State": false,
+    "Settings": {
+      "value": 1.0,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "NoHurtCam": {
+    "State": true,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "Crasher": {
+    "State": false,
+    "Settings": {
+      "crasher": "TreeAC",
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "FastPlace": {
+    "State": false,
+    "Settings": {
+      "delay": 0.0,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "WorldTime": {
+    "State": true,
+    "Settings": {
+      "Time": 12260.0,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "AutoTool": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "Step": {
+    "State": false,
+    "Settings": {
+      "stepHeight": 1.0,
+      "SpeedBoost": false,
+      "fakeJump": true,
+      "boost": 0.25,
+      "packetType": "Silent",
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "Shader": {
+    "State": true,
+    "Settings": {
+      "Blur": true,
+      "chatBlur": true,
+      "scoreBoardBlur": true,
+      "clickGUIBlur": true,
+      "guiBlur": true,
+      "shaderESPRadius": 3.0,
+      "shaderESPSigma": 12.0,
+      "ShaderESPColor": "java.awt.Color[r\u003d255,g\u003d0,b\u003d0]",
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "AutoSprint": {
+    "State": true,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "Trajectories": {
+    "State": true,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "FlagDetector": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "Disabler": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "SpeedGraph": {
+    "State": true,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "ServerActions": {
+    "State": true,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "InventoryMove": {
+    "State": false,
+    "Settings": {
+      "CancelAchievement": true,
+      "cancelSprint": true,
+      "FakeRotation": true,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "InventoryManager": {
+    "State": true,
+    "Settings": {
+      "OnlySwordWeapon": true,
+      "cleanFood": false,
+      "cleanBowsUArrow": false,
+      "Mode": "OpenInv",
+      "CleanInventory": true,
+      "Delay": 8.0,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "ClickGUI": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "AntiCrash": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "KillAura": {
+    "State": false,
+    "Settings": {
+      "KillAuraMode": "Switch",
+      "attackMode": "SimplePacket",
+      "sortMode": "Health",
+      "CPS": 12.0,
+      "randomCps": true,
+      "SwitchDelay": 60.0,
+      "Range": 4.2,
+      "Rotations": true,
+      "smooth": true,
+      "Players": true,
+      "Mobs": true,
+      "moreParticles": true,
+      "TargetHUD": true,
+      "walls": true,
+      "animals": true,
+      "noSprint": false,
+      "autoBlock": true,
+      "AutoBlockMode": "Legit",
+      "movementAdjustment": false,
+      "jumpMovementAdjustment": true,
+      "SilentMovementAdjustment": false,
+      "necessaryRotation": true,
+      "PointOfViewRotation": false,
+      "GCDFix": true,
+      "throughWallsRotation": false,
+      "blockRaycast": false,
+      "outrangeRotation": false,
+      "predictRotation": false,
+      "randomRotations": true,
+      "GCDA3": true,
+      "golems": false,
+      "smoothing": 30.0,
+      "villager": false,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "NameTags": {
+    "State": true,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "Chams": {
+    "State": false,
+    "Settings": {
+      "chamsColor": "java.awt.Color[r\u003d151,g\u003d67,b\u003d67]",
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "NoVelocity": {
+    "State": true,
+    "Settings": {
+      "VelocityMode": "Cancel",
+      "reduceStrenght": 0.5,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "NoSlowDown": {
+    "State": false,
+    "Settings": {
+      "packetMode": "ItemChange",
+      "justAir": false,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "HotBar": {
+    "State": true,
+    "Settings": {
+      "smooth": false,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "Speed": {
+    "State": false,
+    "Settings": {
+      "SpeedMode": "AAC4",
+      "strafeSpeedMultiplier": false,
+      "SpeedMultiplier": 0.01,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "ESP": {
+    "State": false,
+    "Settings": {
+      "Mobs": true,
+      "Animals": false,
+      "Invisibles": false,
+      "players": true,
+      "villagers": false,
+      "2DESP": false,
+      "espColor": "java.awt.Color[r\u003d53,g\u003d215,b\u003d189]",
+      "esp2DColor2": "java.awt.Color[r\u003d56,g\u003d98,b\u003d202]",
+      "esp2DHealthBar": true,
+      "shaderESP": true,
+      "Seperate": true,
+      "GlowRadius": 3.0,
+      "GlowSigma": 4.0,
+      "GlowAlpha": 2.4000000000000004,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "ScaffoldWalk": {
+    "State": false,
+    "Settings": {
+      "MovementFix": false,
+      "silent": true,
+      "slowerOnPlace": false,
+      "saveWalk": false,
+      "sprint": false,
+      "tower": false,
+      "ticksUntilTowering": 1.0,
+      "slowFactor": 0.8,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "Clip": {
+    "State": false,
+    "Settings": {
+      "clipDistance": -8.0,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "ChatSpammer": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "Notifications": {
+    "State": true,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "NameProtect": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "Flight": {
+    "State": false,
+    "Settings": {
+      "FlyMode": "HydraCraft",
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "Hud": {
+    "State": true,
+    "Settings": {
+      "sorted": true,
+      "rightBar": true,
+      "textshadow": true,
+      "minecraftFont": true,
+      "backgroundColor": "java.awt.Color[r\u003d17,g\u003d17,b\u003d17]",
+      "textColor": "java.awt.Color[r\u003d223,g\u003d221,b\u003d236]",
+      "colorType": "Fade",
+      "rainbowTime": 3.0,
+      "backgroundAlpha": 122.0,
+      "yAxis": 3.0,
+      "xAxis": 1.0,
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "LongJump": {
+    "State": false,
+    "Settings": {
+      "Mode": "VerusDamage",
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  },
+  "ChestESP": {
+    "State": false,
+    "Settings": {
+      "ChestESPColor": "java.awt.Color[r\u003d76,g\u003d204,b\u003d145]",
+      "Version: ": "b10",
+      "Time: ": "Sat Oct 01 16:19:36 CEST 2022"
+    }
+  }
+}
